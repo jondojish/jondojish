@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi there 👋 - I'm Jonathan #
 #### I'm passionate about creating *unique* projects ####
 
