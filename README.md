@@ -9,6 +9,3 @@
   - **"description of what im working on"
 -->
  
-## 🌱 I’m currently learning:
-- Python: 3 months
-- HTML/JavaScript: 2 weeks
